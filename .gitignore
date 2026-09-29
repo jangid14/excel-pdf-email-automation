@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Generated PDFs
+output/*.pdf
+
+# Logs
+logs/*.log
+
+# Excel data
+input/*.xlsx
+input/*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
